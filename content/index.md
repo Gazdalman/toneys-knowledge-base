@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "Kaelenor: A Basic Guide by Lortam the Pitiable"
 ---
-## The index page
+## The World of Kaelenor
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Kaelenor is a world of blade and magic. Gods are born, legends are written, and goblins are still disgusting little creatures. In Kaelenor, anybody can be anything. So who will you be? Probably dead...
 
 ## Editing pages
 

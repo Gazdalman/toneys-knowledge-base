@@ -1,0 +1,3 @@
+## About Me
+
+I am Toney Winston. I started my journey for software development in 2022. I originally started college in a Biochemistry program. After three years, I dropped out of college because I had no interest in the degree I was looking for. After building my first PC, I started watching YouTube videos about software. Then, I got into DnD which ignited a love for the process of making a game world and building the rules around it. These two things culminated in a desire to learn to code and ultimately build a game. Unfortunately, I'm not too good at art or animation so the game part will have to wait. That being said, I still have a deep desire to work in the software development field.
