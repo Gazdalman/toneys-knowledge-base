@@ -4,6 +4,8 @@ title: "Kaelenor: A Basic Guide by Lortam the Pitiable"
 ---
 ## The World of Kaelenor
 
+![[Kaelenor_logo.png]]
+
 Kaelenor is a world of blade and magic. Gods are born, legends are written, and goblins are still disgusting little creatures. In Kaelenor, anybody can be anything. So who will you be? Probably dead...
 
 ## Main Categories
