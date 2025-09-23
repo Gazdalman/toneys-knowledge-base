@@ -9,8 +9,10 @@ Ranking below the Reigning Deities and usually working FOR the rest of the gods 
 #### Sela, Lesser Goddess of Earthquakes
 - **Alignment** - Chaotic Good
 - **Appearance** - A human female with tan skin and short cut black hair. She wears fingerless gauntlets on her hands made of silver that have rubies on the knuckles. She is often smiling, even when she is in danger. What a psycho...
-- **Personality** - Sela is endlessly optimistic and always ready for a fight. She typically reveres [[the-embodiments|Terra]], as the highest of all of the gods with the exception of the Goddess of Humans, Alma. She is boisterous and talented at hand to hand combat, which she supplements using the limited divine magic she has.
-
+- **Personality** - Sela is endlessly optimistic and always ready for a fight. She typically reveres [[the-embodiments|Terra]], as the highest of all of the gods with the exception of the Goddess of Humans, Arma. She is boisterous and talented at hand to hand combat, which she supplements using the limited divine magic she has.
+- **Fun Fact** - Sela supports Alamys' claim to the domain of earth due to her skill but mainly the fact that her grandmother is Arma. When she learned about the attack on the capital city of Valora by Zariel, she immediately agreed to join the next Crusade into Hell.
+- **Likes** - Fighting, optimism, devotees of Terra and Arma, Theron
+- **Dislikes** - Politics, pessimists, Zariel, sweets
 
 
 

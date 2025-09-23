@@ -4,7 +4,7 @@ title: "The Embodiments: Gods of Gods"
 # The Embodiments
 ## The Foundational Principles
 ---
-The Embodiments are manifestations of the integral pieces of reality. They existed as abstract constructs until the mortals gained consciousness and "observed" them. They stand taller than giants and have appearances that reflect their domain. They are the most powerful of the divine figures and require no worship to maintain their powers. However, this comes at a cost. Should one of them bite it without being replaced immediately, reality could unravel.
+The Embodiments are manifestations of the integral pieces of reality. They existed as abstract constructs until the mortals gained consciousness and "observed" them. They stand taller than giants and have appearances that reflect their domain. They are the most powerful of the divine figures and require no worship to maintain their powers. However, this comes at a cost. Should one of them bite it without being replaced immediately, reality could unravel. To learn more about the embodiments, look at this [[The Divinity Saga.pdf|crudely written accounting]] of the beginnings of reality.
 
 #### Terra, The Stone Mother
 
@@ -15,7 +15,7 @@ The Embodiments are manifestations of the integral pieces of reality. They exist
 - **Appearance** - Terra appears as a muscular, broad shouldered woman with skin the color of rich soil. Her hair is a weave of gravel and colorful geodes. Her eyes are the color of granite with a glitter or precious gems. Her voice has the undertone of shifting tectonic plates.
 - **Birth** - Terra was born as the first mortals awoke on hard stone. They observed the dirt and soil around them and a distant mountain stood up. They named her Terra and she taught them magic to shape the earth and stone around them to make shelter.
 - **Aegis**: Andabrant, an old dwarf said to be strong enough to rip rocks from a mountain side.
-- **Divine Spells**
+- **Divine Magic**
 	- **Doomsday Spell (Unraveling)** - Triggers the dissolution of all solid matter in the universe, turning planets, mountains, and bodies into frictionless sea of particles.
 	- **Spell of Creation (The Seed of Substances)** - Provided the raw, physical matter from which the new universe was formed.
 - **Worshippers** - Farmers, miners, architects, and stonemasons. Dwarves hold special reverence for her as she shaped the [[reigning-deities#Boric, The Mountain's Heart|first dwarves]] from the first mortals.
