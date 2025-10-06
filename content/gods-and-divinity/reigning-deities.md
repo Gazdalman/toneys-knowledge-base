@@ -12,6 +12,7 @@ The Reigning Deities are mortals who have ascended to godhood by personifying an
 - **Domain** - Dwarves, Dwarven Endurance, Dwarven Spirit
 - **Alignment** - Lawful Neutral
 - **Aegis** - A young dwarven stonemason who has never once set foot outside his mountain home.
+- **Predecessor** - Adaman who was slain in the God War before the Unraveling.
 - **Appearance** - A very stocky dwarf whose beard is braided with granite beads, meant to represent the eyes of [[the-embodiments#Terra, The Stone Mother|Terra]], and has calloused knuckles as hard as rock. He is bald and has eyes of a rich caramel. A faint, earthy scent surrounds him, like a deep cave after a rain. 
 - **Divine Magic**
 	- **Minor Blessing (Stone Sense)** - Boric can bestow his dwarves or any other devout miner with an intuitive sense of where they can find ore veins or precious stones so long as they offer a prayer before beginning the day's work.
